@@ -19,4 +19,3 @@ function init(){
 }
 
 init();
-​
